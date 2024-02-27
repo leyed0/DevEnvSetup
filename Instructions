@@ -1,0 +1,11 @@
+1 - Install VSCode
+2 - install and open msys2:
+    a. pacman -Syu
+    b. open desired msys version (recomended UCRT64)
+    c. pacman -Su
+    d. pacman -S mingw-w64-ucrt-x86_64-toolchain
+    e. install other desired libs - (git, make, etc)
+3 - Add msys2 folders to path
+    a. ...\usr\bin
+    b. ...\ucrt64\bin
+    c. ...\ucrt64\include

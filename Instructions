@@ -10,3 +10,11 @@
     b. ...\ucrt64\bin
     c. ...\ucrt64\include
 4 - Install VSCode extensions
+
+
+
+
+usefull libs:
+    mingw-w64-ucrt-x86_64-sfml
+    mingw-w64-ucrt-x86_64-SDL2
+    mingw-w64-ucrt-x86_64-SDL2_image

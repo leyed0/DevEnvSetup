@@ -6,11 +6,11 @@
     d. pacman -S mingw-w64-ucrt-x86_64-toolchain mingw-w64-ucrt-x86_64-nodejs mingw-w64-ucrt-x86_64-python mingw-w64-ucrt-x86_64-gdb mingw-w64-ucrt-x86_64-cmake
     e. install other desired libs - (git, make, etc)
 3 - Add msys2 folders to path
-    a. ...\usr\bin
-    b. ...\usr\include
-    c. ...\ucrt64\bin
-    d. ...\ucrt64\lib
-    e. ...\ucrt64\include
+    a. ...C:\Dev\apps\msys64\usr\bin
+    b. ...C:\Dev\apps\msys64\usr\include
+    c. ...C:\Dev\apps\msys64\ucrt64\bin
+    d. ...C:\Dev\apps\msys64\ucrt64\lib
+    e. ...C:\Dev\apps\msys64\ucrt64\include
 4 - Install VSCode extensions
 
 
